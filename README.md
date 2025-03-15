@@ -60,7 +60,7 @@ Pour démarrer l'application et la base de données localement:
 
 1. Clonez ce dépôt:
 ```bash
-git clone https://github.com/magatte365/projet-devops.git
+git clone https://github.com/magatte365/Projet-Devops-de-MBODJ.git
 cd projet-devops
 ```
 
